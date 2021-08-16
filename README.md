@@ -9,3 +9,8 @@ Additionally, I added other custom enchants asides from merely adding potion eff
 Creating new custom enchants is easy with the EnchantCreator class. 
 
 I made this code a while back and decided to add it here, so there are probably better ways of doing things...but it works for the most part.  
+
+# TO-DO 
+- Make enchants apply via book. 
+- Clean-up/optimize code 
+- Other stuff that I can't think of right now. 
