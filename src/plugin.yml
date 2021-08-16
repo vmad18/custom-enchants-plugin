@@ -1,0 +1,12 @@
+main: me.customenchants.test
+version: 1.1
+author: v18
+name: CustomEnchants
+description: First Attempt at Custom Enchants
+api-version: 1.16
+
+commands:
+  applyEnchant:
+    usage:
+  getchain:
+    usage:
